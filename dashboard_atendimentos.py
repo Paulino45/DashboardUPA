@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 
 # Configuração inicial
 st.set_page_config(page_title='Dashboard UPA 24H', layout='wide')
-st.image('TESTEIRA PAINEL UPA1.png', width=500)
+st.image('UPA.png', width=500)
 st.title('Análises de Atendimentos - UPA 24H Dona Zulmira Soares')
 
 # Sidebar com imagem e filtros
